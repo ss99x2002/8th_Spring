@@ -11,7 +11,7 @@
 
 ### 마이페이지 리뷰 작성
 
-**POST /api/v1/review**
+**POST /api/v1/reviews**
 
 ### **Request Header**
 
@@ -31,7 +31,7 @@
 
 ### 미션 목록 조회
 
-**GET /api/v1/mission/list**
+**GET /api/v1/missions/list**
 
 ### **Request Header**
 
